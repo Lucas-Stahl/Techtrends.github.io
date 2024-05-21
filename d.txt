@@ -1,0 +1,40 @@
+<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+<a style="Color:white;" href = "#TopTrendsof2022" rel="internal">
+<li> Top Trends of 2022 </li>
+</a>
+<a style="Color:white;" href = "#Trendofinterest" rel="internal">
+<li> Trend of Interest </li>
+</a>
+<a style="Color:white;" href = "#Hurdlesofthetrendofinterest" rel="internal">
+<li> Hurdles of the trend of interest </li>
+</a>
+<a style="Color:white;" href = "#Socialimpactofthetrendofinterest" rel="internal">
+<li> Social Impact of the trend of interest </li>
+</a>
+<a style="Color:white;" href = "#TechTrendsof2023" rel="internal">
+<li> Tech Trends of 2023 </li>
+</a>
+<a style="Color:white;" href = "#Datafication" rel="internal">
+<li> Datafication </li>
+</a>
+<a style="Color:white;" href = "#DigitalTrust" rel="internal">
+<li> Digital Trust </li>
+</a>
+<a style="Color:white;" href = "#Genomics" rel="internal">
+<li> Genomics </li>
+
+<div id="main">
+  <button class="openbtn" onclick="openNav()">&#9776; Open Sidebar</button>
+  <h2>Collapsed Sidebar</h2>
+  <p>Content...</p>
+</div>
+
+<aside>
+<div style= "background:black;" id="sidenavbar">
+<header> <p> Tech trends of 2022 </p>
+<div>
+<ul>
+</a>
+</ul>
+</div>
+</aside>
